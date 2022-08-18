@@ -1,7 +1,7 @@
 import hashlib
 import datetime
 
-#What file do you want to monitor?
+#What file do you want to monitor? Note: The file has to be on a drive that does not have strict file access permissions.
 
 filelocation = input("What file do you want to monitor for activity? \n (include the whole file path in your selection): ")
 
